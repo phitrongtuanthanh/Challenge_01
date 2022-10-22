@@ -8,6 +8,10 @@ body {
     background-color: #d9dcd6;
 }
 
+body p {
+    font-size: 16px;
+}
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,10 +54,6 @@ main img {
     margin-bottom: 25px;
     background-size: cover;
     background-position: center;
-}
-
-main p {
-    font-size: 16px;
 }
 
 .content {

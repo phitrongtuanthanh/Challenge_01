@@ -11,14 +11,17 @@ Run this website: <https://phitrongtuanthanh.github.io/Challenge_01/>
 ## Usage
 
 Hmm... Read from the top to bottom?
+
 Oh wait, click on a category to move instantly to the destination.
 
-![alt Horiseon Website](assets/images/screenshot.png)
+![Horiseon Website](assets/images/screenshot.png)
 
 ## Credit
 
 JD Tadlock - Instructor
+
 Michael Baynon - TA
+
 Stephen Paterson - Friendly fellow.
 
 ## License

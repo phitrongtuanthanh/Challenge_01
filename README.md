@@ -14,7 +14,7 @@ Hmm... Read from the top to bottom?
 
 Oh wait, click on a category to move instantly to the destination.
 
-![Horiseon Website](/assets/images/screenshot.png)
+![Horiseon Website](./assets/images/screenshot.png)
 
 ## Credit
 
